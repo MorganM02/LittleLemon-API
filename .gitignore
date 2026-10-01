@@ -1,0 +1,8 @@
+notes.txt
+db.sqlite3
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+LittleLemon_Submission.zip
